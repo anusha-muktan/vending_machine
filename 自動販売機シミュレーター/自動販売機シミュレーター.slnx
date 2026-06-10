@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="自動販売機シミュレーター/自動販売機シミュレーター.vcxproj" />
+</Solution>
